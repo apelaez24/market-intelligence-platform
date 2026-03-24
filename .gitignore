@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+.env
+*.egg
+.venv/
+
+# Local archives — not for publishing
+archive/
