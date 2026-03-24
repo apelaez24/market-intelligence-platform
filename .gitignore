@@ -9,3 +9,13 @@ build/
 
 # Local archives — not for publishing
 archive/
+
+# Phase deployment backups
+*.bak.*
+
+# Credentials
+.env
+
+# Test/build artifacts
+.pytest_cache/
+logs/
