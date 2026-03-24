@@ -1,6 +1,6 @@
 # Market Intelligence Platform
 
-An open-source, production-grade market intelligence platform for cryptocurrency perpetual futures, deployed on a Raspberry Pi 5 homelab. The platform combines real-time market scanning, a multi-component signal fusion engine, outcome-tracked alert history, and an AI-powered assistant — all running as managed systemd services against a PostgreSQL backend.
+An open-source, production-grade market intelligence platform for stocks & perpetual futures, deployed on a Raspberry Pi 5 homelab. The platform combines real-time market scanning, a multi-component signal fusion engine, outcome-tracked alert history, and an AI-powered assistant — all running as managed systemd services against a PostgreSQL backend.
 
 ---
 
